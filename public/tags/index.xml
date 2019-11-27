@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ayda &amp; Marissa&#39;s Project</title>
+    <link>https://www.example.com/tags/</link>
+    <description>Recent content in Tags on Ayda &amp; Marissa&#39;s Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;#169; Ayda &amp; Marissa</copyright>
+    <lastBuildDate>Wed, 29 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tag1</title>
+      <link>https://www.example.com/tags/tag1/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>https://www.example.com/tags/tag2/</link>
+      <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag3</title>
+      <link>https://www.example.com/tags/tag3/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/tags/tag3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag4</title>
+      <link>https://www.example.com/tags/tag4/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/tags/tag4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag5</title>
+      <link>https://www.example.com/tags/tag5/</link>
+      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/tags/tag5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>a tag with spaces</title>
+      <link>https://www.example.com/tags/a-tag-with-spaces/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/tags/a-tag-with-spaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>another tag</title>
+      <link>https://www.example.com/tags/another-tag/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/tags/another-tag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>much animation</title>
+      <link>https://www.example.com/tags/much-animation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/tags/much-animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>such move</title>
+      <link>https://www.example.com/tags/such-move/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/tags/such-move/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>very html5</title>
+      <link>https://www.example.com/tags/very-html5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/tags/very-html5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wow</title>
+      <link>https://www.example.com/tags/wow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/tags/wow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

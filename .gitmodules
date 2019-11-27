@@ -1,0 +1,3 @@
+[submodule "themes/grid-side"]
+	path = themes/grid-side
+	url = https://github.com/chipsenkbeil/grid-side.git
